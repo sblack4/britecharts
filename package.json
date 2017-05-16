@@ -1,8 +1,8 @@
 {
   "name": "britecharts",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "D3.js based Modular Charting Library by Eventbrite",
-  "main": "README.md",
+  "main": "dist/bundled/britecharts.min.js",
   "contributors": [
     {
       "name": "Marcos Iglesias",
